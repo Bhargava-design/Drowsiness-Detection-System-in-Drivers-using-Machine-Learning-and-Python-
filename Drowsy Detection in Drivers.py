@@ -20,7 +20,7 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 eye_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_eye.xml')
 
 #Define the path for non drowsy and drowsy
-drowsy_path = r"C:/Users/gudur/Desktop/Project1/Drowsy Image/"
+drowsy_path = r"C:/Users/gudur/Desktop/Project1/Drowsy Images/"
 non_drowsy_path = r"C:/Users/gudur/Desktop/Project1/Non Drowsy Images/"
 
 #start_camera
