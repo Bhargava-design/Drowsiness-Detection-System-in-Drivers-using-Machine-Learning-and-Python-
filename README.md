@@ -1,6 +1,6 @@
 ﻿"Vigilant Guardians: A Unified Approach to Real-time Drowsiness Detection in Drivers using Python, AI, ML, and Facial Recognition" 
 
-***Mr. S. V. Durga Prasad, M. Tech,** Asst. prof,       Department of* 
+<center> ***Mr. S. V. Durga Prasad, M. Tech,** Asst. prof,       Department of* 
 
 *Computer Science & Engineering with Data Science,* 
 
@@ -10,7 +10,7 @@
 
 ***Guduru Bhargava Veerbhadra**         Department of       Computer Science & Engineering with     Data Science,        Chalapathi Institute of Engineering and      Technology          (Autonomous)* 
 
-*Lam, Guntur, A.P, India* 
+*Lam, Guntur, A.P, India* </center>
 
 [*guduribhargava@gm*](mailto:guduribhargava@gmail.com)
 
