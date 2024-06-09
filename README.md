@@ -1,6 +1,7 @@
-﻿<h3>"Vigilant Guardians: A Unified Approach to Real-time Drowsiness Detection in Drivers using Python, AI, ML, and Facial Recognition" </h3>
+﻿<h1>"Vigilant Guardians: A Unified Approach to Real-time Drowsiness Detection in Drivers using Python, AI, ML, and Facial Recognition" </h1>
 
-<h4>Guduru Bhargava Veera Bhadra</h4> <br> Department of Computer Science & Engineering with Data Science, <br> *Chalapathi Institute of Engineering and Technology (Autonomous)* Lam, Guntur, A.P, India.
+<h4>Head of the project: <b>Bhargava Veera Bhadra</b></h4>
+Department of Computer Science & Engineering with Data Science, *Chalapathi Institute of Engineering and Technology (Autonomous)* Lam, Guntur, A.P, India.
 
 [*guduribhargava@gmail.com* ](mailto:guduribhargava@gmail.com)
 
@@ -54,14 +55,12 @@ The **Classification**  implementation involves sophisticated algorithms like Ra
 
 HOW EFFECTIVELY DOES THE SYSTEM PERFORM IN PRACTICE? 
 
-4) ***Drowsiness  Classification**:* In checking how our Detection system performs, We’ve run it through various tests and real-life based  on  the  extracted  features,  the  system  situations.  The  results  show  that  the  system  is classifies the driver’s current state such as: alert,  pretty sharp at recognizing when a driver is getting drowsy, or fatigued.  drowsy. We looked at numbers like sensitivity and specificity to make sure it’s good at telling the 
+4) ***Drowsiness  Classification**:* In checking how our Detection system performs, We’ve run it through various tests and real-life based  on  the  extracted  features,  the  system  situations.  The  results  show  that  the  system  is classifies the driver’s current state such as: alert,  pretty sharp at recognizing when a driver is getting drowsy, or fatigued.  drowsy. We looked at numbers like sensitivity and specificity to make sure it’s good at telling the difference between an alert driver and one who’s feeling a bit too sleepy. The outcome? A reliable system that catches those subtle signs of driver fatigue.
 
 <p align="center">
   <img src="Aspose.Words.6d2d73a1-84bb-47e1-bee1-1cd82434cff0.004.png" alt="Sublime's custom image"/>
 </p>
 
-
-difference between an alert driver and one who’s feeling a bit too sleepy. The outcome? A reliable system that catches those subtle signs of driver fatigue. 
 
 RELATED WORK **DATASET COLLECTION** 
 
